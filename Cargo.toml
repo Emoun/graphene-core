@@ -1,0 +1,14 @@
+[package]
+name = "graphene-core"
+version = "0.0.0"
+authors = ["Emad Jacob Maroun <emoun.open@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Emoun/graphene-core"
+documentation = "https://docs.rs/graphene-core"
+
+
+description = "A general purpose, extensible Graph Theory data type and algorithm library for Rust."
+readme = "cargo-readme.md"
+
+[dependencies]
